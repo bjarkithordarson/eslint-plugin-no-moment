@@ -1,0 +1,26 @@
+{
+  "name": "eslint-plugin-no-moment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": ["eslint", "eslintplugin", "moment", "custom-rule"],
+  "peerDependencies": {
+    "eslint": "^8.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjarkithordarson/eslint-plugin-no-moment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjarkithordarson/eslint-plugin-no-moment/issues"
+  },
+  "homepage": "https://github.com/bjarkithordarson/eslint-plugin-no-moment#readme",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.24.0"
+  }
+}
